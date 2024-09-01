@@ -37,7 +37,7 @@ export default function logIn() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    SF-457 Panki Kanpur
                                 </div>
                             </div>
 
@@ -59,7 +59,7 @@ export default function logIn() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 8934955206
                                 </div>
                             </div>
 
@@ -81,7 +81,7 @@ export default function logIn() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                     <a href="https://www.instagram.com/ssatyyam_/">inst@ssatyyam_</a>
                                 </div>
                             </div>
                         </div>

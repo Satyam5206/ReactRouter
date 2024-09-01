@@ -10,6 +10,7 @@ import About from './componantes/About.jsx'
 import Contact from './componantes/Contact.jsx'
 import Github from './componantes/Github.jsx'
 import logIn from './componantes/logIn.jsx'
+import chatbot from './componantes/chatbot.jsx'
 
  
 
@@ -34,9 +35,10 @@ const router = createBrowserRouter([
         path:"logIn",
         element:<logIn />
       },
+       
       {
-        path:"Github",
-        element:<Github />
+        path:"chatbot",
+        element:<chatbot />
       }
     ]
   }

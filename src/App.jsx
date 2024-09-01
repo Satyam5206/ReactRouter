@@ -5,6 +5,7 @@ import './App.css'
 import Header from './componantes/Header'
 import Footer from './componantes/Footer'
 import Home from './componantes/Home'
+import logIn from './componantes/logIn'
  
 import { createBrowserRouter } from 'react-router-dom'
  
@@ -15,6 +16,7 @@ function App() {
 
   return (
     <>
+    
     <Header/>
     <Footer/>
     <Home/>
